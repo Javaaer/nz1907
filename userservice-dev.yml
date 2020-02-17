@@ -1,4 +1,4 @@
 unique:
   attr: zheshiceshi  
-your:
+your:            #在测试时，为了体现application会出现your.name的效果，要把这里的这个your.name删掉
   name: huanlemingzi
